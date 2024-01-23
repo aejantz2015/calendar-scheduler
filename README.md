@@ -4,12 +4,12 @@ Calendar-Scheduler
 
 ## Description
 
-This project was a Calendar Scheduler that someone can use for their work life. This helps them keep track of the time during the day as well as any meetings or important information that will help them throughout the work day. This solves the problem of being late or forgetting a meeting during the day that is important. The color blocks help espeically to keep track of time without having to reference a clock constantly. I learned how to utilize jquery and functions within to schedule block.
+This project was a Calendar Scheduler that someone can use for their work life. This helps them keep track of the time during the day as well as any meetings or important information that will help them throughout the work day. This solves the problem of being late or forgetting a meeting during the day that is important. The color blocks help espeically to keep track of time without having to reference a clock constantly.
 
 
 ## Usage
 
-[Work-Day-Calendar]()
+[Work-Day-Calendar](https://aejantz2015.github.io/calendar-scheduler/)
 
 ![Screenshot](./assets/Screenshot.png)
 
